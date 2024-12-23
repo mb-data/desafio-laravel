@@ -27,7 +27,7 @@ Desenvolva uma aplicação simples em Laravel que funcione como um sistema de ge
 - Implementar uma funcionalidade de marcação de tarefas como “concluídas”.
 - Adicionar um campo de data de vencimento para cada tarefa e exibir uma notificação (visual ou funcional) para tarefas vencidas.
 
-### Middleware Customizado
+### 4. Middleware Customizado
 - Desenvolver um middleware que restrinja o acesso às rotas do sistema apenas para usuários autenticados.
 
 ## 5. Sistema de Autenticação
