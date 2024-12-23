@@ -10,7 +10,7 @@ Desenvolva uma aplicação simples em Laravel que funcione como um sistema de ge
 
 ### 1. Tecnologias:
 - PHP 8.0+
-- Laravel 10+
+- Laravel 9+
 - MySQL ou outro banco de dados compatível
 
 ### 1. Interface Personalizada
